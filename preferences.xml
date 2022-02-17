@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+        <book>
+                <title>XML_preferences</title>
+                <author>Mikhaylov Vitaliy</author>
+                <year>2022</year>
+        </book>
+
+	<preferences>
+		<favorite_movie>Forrest Gump</favorite_movie>
+		<favorite_TV_series>Brigada</favorite_TV_series>
+		<favorite_food>chickenn</favorite_food>
+		<favorite_season>summer</favorite_season>
+		<country_to_visit>Greece</country_to_visit>
+        </preferences>
+</root>
+
