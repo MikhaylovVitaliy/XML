@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<book>
+		<title>XML</title>
+		<author>Mikhaylov Vitaliy</author>
+		<year>2022</year>
+	</book>
+	<about_me>
+		<last_name>Михайлов</last_name>
+		<first_name>Виталий</first_name>
+		<patronymic>Сергеевич</patronymic>
+		<age>44</age>
+		<pets>2</pets>
+		<salary>60000</salary>
+	</about_me>
+</root>
